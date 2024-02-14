@@ -1,0 +1,16 @@
+POST localhost:8080/checkout
+Content-Type: application/json
+
+{
+  "kunde": "Uwe",
+  "artikel": [
+    {
+      "name": "Dauerlutscher",
+      "preis": 0.99
+    },
+    {
+      "name": "Kekse",
+      "preis": 1.99
+    }
+  ]
+}
