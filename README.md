@@ -1,5 +1,8 @@
 # Getting Started
 
+## Java Anwendung
+- `shop.App` aus IDE heraus starten
+
 ## Datenbank
 
 - Postgres wird mit Docker Compose automatisch beim Start der Anwendung hochgefahren
